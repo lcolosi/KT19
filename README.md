@@ -1,4 +1,4 @@
-# KT19 Processing Software Package
+# KT19 Processing and Visualization Software 
 This repository contains software (src/ and tools/) for processing KT19 data colled by the Modular Aerial Sensing System (MASS) along with processing documentation. Data is included to help verify software is working properly. 
 
 ## Authors 
