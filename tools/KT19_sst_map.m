@@ -76,7 +76,8 @@ function [fileout_mat] = KT19_sst_map(dirinspan,dirinkt19,dirout,varargin)
     %                      https://www.eoas.ubc.ca/~rich/map.html#download
     %         (b) gescatter : Function for saving KML files that render as
     %                         scatter plots in google earth. Luc sent me
-    %                         this function.  
+    %                         this function, but it should be available 
+    %                         through MatLab's plotting toolbox. 
     %         (c) kml2str : Found online at https://www.mathworks.com/matlabcentral/fileexchange/35642-kml2struct
     % 
     %   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
